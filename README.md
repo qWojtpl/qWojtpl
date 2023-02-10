@@ -7,7 +7,7 @@ My name is Wojciech. I'm currently developing some projects. Programming is my p
 - 👯 I’m looking to collaborate on **different projects**
 - 💬 Ask me about **Everything ;D**
 - 📫 How to reach me: **Discord: Wojt_pl#8248**
-- ⚡ Fun fact: **Beavers are the biggest rodent in Eurasia**
+- ⚡ Fun fact: **Beavers are the biggest rodents in Eurasia**
 
 <hr>
 <br>
