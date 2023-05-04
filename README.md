@@ -37,8 +37,6 @@ My name is Wojciech. I'm currently developing some projects. Programming is my p
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   
  </div>
- 
- ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=qWojtpl)
   
 <!--
 **qWojtpl/qWojtpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
