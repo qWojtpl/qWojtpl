@@ -13,8 +13,7 @@ My name is Wojciech. I'm currently developing some projects. Programming is my p
 <br>
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=qWojtpl&show_icons=true&theme=cobalt'><br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=qWojtpl&theme=cobalt&layout=compact'>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qWojtpl&theme=codeSTACKr"><br>
 </p>
 
 <br>
